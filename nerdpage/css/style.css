@@ -34,3 +34,21 @@ pre {
 #secret-link {
   color: black;
 }
+
+.flexbox {
+  display: flex;
+  justify-content: space-around;
+}
+
+.flex-item {
+  flex: 0 0 20%;
+}
+
+.resize {
+  width: 500px;
+  height: auto;
+}
+
+h1 {
+  text-align: center;
+}
